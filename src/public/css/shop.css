@@ -1,0 +1,24 @@
+.shop{
+  width: 20%;
+}
+img{
+  width: 100%;
+}
+.name{
+  margin: ;
+}
+.area{
+  display: inline;
+}
+.genre{
+  display: inline;
+}
+.button{
+  display: flex;
+  justify-content: space-between;
+}
+.shop_all{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
